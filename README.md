@@ -16,9 +16,9 @@ Welcome to the Gun Detection Security System repository! This project is a compr
 ## Introduction
 In today's world, security is of utmost importance, and the Gun Detection Security System aims to enhance security measures by providing a reliable and efficient solution for detecting firearms in various environments. This system leverages the power of computer vision to detect guns and faces in real-time, enabling prompt action and intervention in critical situations.
 
-<div style="text-align:center">
+<p align="center">
   <img src="https://github.com/Rishit-katiyar/Gun-Detection-Security-System/assets/167756997/2604e55a-e186-42e8-834e-94af4036ac63" alt="gun_20240428191108">
-</div>
+</p>
 
 ## Features
 🔍 Real-time gun detection from webcam feed  
